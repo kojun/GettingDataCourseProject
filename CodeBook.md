@@ -14,7 +14,7 @@ This file has the following fields:
 * **subjectId** Subject Id.  
 * **mean(XXX)** The mean value of XXX summarized by **activityLabel** and **subjectId**. Training and test data sets are merged together before summarizing.    
 Here, **XXX** is the feature name written in "features.txt" file in the original data.  
-Please note that not all the features are summarized -- only those feature names containg "mean" and "sd" are extracted from the original data and summarized.  
+Please note that not all the features are summarized -- only those feature names containg "mean" and "std" are extracted from the original data and summarized.  
 Please further note that **XXX** contains only alphanumeric characters, as I removed away symbol characters such as hyphens, parenthesis and commas from the original feature names when creating summary field names **mean(XXX)**.  There is no theory, just my preference.
 
 
