@@ -6,7 +6,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Please refer to this site to see the detailed description of the data.
 
-## COdebook for the Summarized Data
+## Codebook for the Summarized Data
 As I explained in README.md and run_analysis.R files,
 the data file "features_summary_data.txt" is a summary of the original data.  
 This file has the following fields:  
