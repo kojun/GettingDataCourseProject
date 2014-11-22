@@ -23,4 +23,4 @@ The script reads in above files and outputs a summarized file
 called "features_summary_data.txt" in the same directory.  
 
 Please read the comments written in the script if you want
-to know how this script works in more detail.
+to know what the script does and how it works in more detail.
